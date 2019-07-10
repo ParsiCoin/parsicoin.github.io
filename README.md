@@ -1,3 +1,2 @@
-Template Credits :
-
-https://github.com/creativetimofficial/argon-design-system
+ParsiCoin Github Page.
+https://parsicoin.github.io
